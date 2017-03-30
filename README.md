@@ -28,4 +28,3 @@ Some rules to remember:
 - If the current player is on check and has no way to remove it's status a checkmate is declared
 - Every time a player puts on check its opponent the event must be declared
 - Pawns becomes queens if they get to the opponent's first row
-# Chess
